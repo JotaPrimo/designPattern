@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/projetoCalc",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jailson",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Alura\\DesignPattern\\": "src/"
+    }
+  }
+}
